@@ -1,0 +1,17 @@
+# Docker build context dan chiqariladigan fayllar
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.git/
+.gitignore
+.idea/
+.vscode/
+*.md
+.env.example
+data/
+*.db
+*.sqlite3
+*.log
+logs/
